@@ -1,0 +1,27 @@
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\bin\Debug\PathGATSP.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\bin\Debug\PathGATSP.pdb
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\PathGATSP.GraphForm.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\PathGATSP.MainForm.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\PathGATSP.Properties.Resources.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\PathGATSP.csproj.GenerateResource.Cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\PathGATSP.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\PathGATSP.pdb
+C:\Users\Krzyś\Downloads\C#\PathGATSP\obj\Debug\PathGATSP.exe
+C:\Users\Krzyś\Downloads\C#\PathGATSP\obj\Debug\PathGATSP.pdb
+C:\Users\Krzyś\Downloads\C#\PathGATSP\bin\Debug\PathGATSP.exe
+C:\Users\Krzyś\Downloads\C#\PathGATSP\bin\Debug\PathGATSP.pdb
+C:\Users\Krzyś\Downloads\C#\PathGATSP\obj\Debug\PathGATSP.csprojResolveAssemblyReference.cache
+C:\Users\Krzyś\Downloads\C#\PathGATSP\obj\Debug\PathGATSP.GraphForm.resources
+C:\Users\Krzyś\Downloads\C#\PathGATSP\obj\Debug\PathGATSP.Properties.Resources.resources
+C:\Users\Krzyś\Downloads\C#\PathGATSP\obj\Debug\PathGATSP.csproj.GenerateResource.Cache
+C:\Users\Krzyś\Downloads\C#\PathGATSP\obj\Debug\PathGATSP.GeneticForm.resources
+D:\Studia\Kułak\Programy\Genetyczny\C#\PathGATSP\obj\Debug\PathGATSP.exe
+D:\Studia\Kułak\Programy\Genetyczny\C#\PathGATSP\obj\Debug\PathGATSP.pdb
+D:\Studia\Kułak\Programy\Genetyczny\C#\PathGATSP\bin\Debug\PathGATSP.exe
+D:\Studia\Kułak\Programy\Genetyczny\C#\PathGATSP\bin\Debug\PathGATSP.pdb
+D:\Studia\Kułak\Programy\Genetyczny\C#\PathGATSP\obj\Debug\PathGATSP.csprojResolveAssemblyReference.cache
+D:\Studia\Kułak\Programy\Genetyczny\C#\PathGATSP\obj\Debug\PathGATSP.GraphForm.resources
+D:\Studia\Kułak\Programy\Genetyczny\C#\PathGATSP\obj\Debug\PathGATSP.GeneticForm.resources
+D:\Studia\Kułak\Programy\Genetyczny\C#\PathGATSP\obj\Debug\PathGATSP.Properties.Resources.resources
+D:\Studia\Kułak\Programy\Genetyczny\C#\PathGATSP\obj\Debug\PathGATSP.csproj.GenerateResource.Cache

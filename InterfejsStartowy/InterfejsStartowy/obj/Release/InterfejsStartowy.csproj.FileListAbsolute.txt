@@ -1,0 +1,15 @@
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\bin\Release\InterfejsStartowy.exe.config
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\bin\Release\InterfejsStartowy.exe
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\bin\Release\InterfejsStartowy.pdb
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\obj\Release\InterfejsStartowy.ant_colony_s_path.resources
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\obj\Release\InterfejsStartowy.Form1.resources
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\obj\Release\InterfejsStartowy.GeneticForm.resources
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\obj\Release\InterfejsStartowy.Grafika.resources
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\obj\Release\InterfejsStartowy.GraphForm.resources
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\obj\Release\InterfejsStartowy.InterfejsStartowy.resources
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\obj\Release\InterfejsStartowy.MainForm.resources
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\obj\Release\InterfejsStartowy.Properties.Resources.resources
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\obj\Release\InterfejsStartowy.csproj.GenerateResource.Cache
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\obj\Release\InterfejsStartowy.exe
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\obj\Release\InterfejsStartowy.pdb
+D:\Studia\Kułak\Programy\InterfejsStartowy\InterfejsStartowy\obj\Release\InterfejsStartowy.csprojResolveAssemblyReference.cache

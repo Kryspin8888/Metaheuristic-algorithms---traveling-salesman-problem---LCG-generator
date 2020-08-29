@@ -1,0 +1,25 @@
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\SATSP\SATSP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\SATSP\SATSP\obj\Debug\SATSP.Properties.Resources.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\SATSP\SATSP\obj\Debug\SATSP.csproj.GenerateResource.Cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\SATSP\SATSP\bin\Debug\SATSP.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\SATSP\SATSP\bin\Debug\SATSP.pdb
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\SATSP\SATSP\obj\Debug\SATSP.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\SATSP\SATSP\obj\Debug\SATSP.pdb
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\SATSP\SATSP\obj\Debug\SATSP.MainForm.resources
+C:\Users\Krzyś\Downloads\C#\SATSP\bin\Debug\SATSP.exe
+C:\Users\Krzyś\Downloads\C#\SATSP\bin\Debug\SATSP.pdb
+C:\Users\Krzyś\Downloads\C#\SATSP\obj\Debug\SATSP.csprojResolveAssemblyReference.cache
+C:\Users\Krzyś\Downloads\C#\SATSP\obj\Debug\SATSP.MainForm.resources
+C:\Users\Krzyś\Downloads\C#\SATSP\obj\Debug\SATSP.Properties.Resources.resources
+C:\Users\Krzyś\Downloads\C#\SATSP\obj\Debug\SATSP.csproj.GenerateResource.Cache
+C:\Users\Krzyś\Downloads\C#\SATSP\obj\Debug\SATSP.exe
+C:\Users\Krzyś\Downloads\C#\SATSP\obj\Debug\SATSP.pdb
+D:\Studia\Kułak\Programy\Symulowane wyżarzanie\C#\SATSP\obj\Debug\SATSP.exe
+D:\Studia\Kułak\Programy\Symulowane wyżarzanie\C#\SATSP\obj\Debug\SATSP.pdb
+D:\Studia\Kułak\Programy\Symulowane wyżarzanie\C#\SATSP\obj\Debug\SATSP.csprojResolveAssemblyReference.cache
+D:\Studia\Kułak\Programy\Symulowane wyżarzanie\C#\SATSP\obj\Debug\SATSP.Grafika.resources
+D:\Studia\Kułak\Programy\Symulowane wyżarzanie\C#\SATSP\obj\Debug\SATSP.MainForm.resources
+D:\Studia\Kułak\Programy\Symulowane wyżarzanie\C#\SATSP\obj\Debug\SATSP.Properties.Resources.resources
+D:\Studia\Kułak\Programy\Symulowane wyżarzanie\C#\SATSP\obj\Debug\SATSP.csproj.GenerateResource.Cache
+D:\Studia\Kułak\Programy\Symulowane wyżarzanie\C#\SATSP\bin\Debug\SATSP.exe
+D:\Studia\Kułak\Programy\Symulowane wyżarzanie\C#\SATSP\bin\Debug\SATSP.pdb

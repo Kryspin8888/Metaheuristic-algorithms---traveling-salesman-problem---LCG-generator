@@ -1,0 +1,17 @@
+NAME : ia8
+COMMENT : 8 locations on a plot
+COMMENT : Derived from Introduction to Algorithms
+TYPE : TSP
+DIMENSION : 8
+EDGE_WEIGHT_TYPE : EUC_2D
+NODE_COORD_SECTION
+1 1 4
+2 1 2
+3 0 1
+4 3 4
+5 4 3
+6 3 2
+7 5 2
+8 2 0
+
+

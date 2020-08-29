@@ -1,0 +1,30 @@
+c:\users\maciej\documents\visual studio 2015\Projects\LCG Generator\LCG Generator\bin\Debug\LCG Generator.exe.config
+c:\users\maciej\documents\visual studio 2015\Projects\LCG Generator\LCG Generator\bin\Debug\LCG Generator.exe
+c:\users\maciej\documents\visual studio 2015\Projects\LCG Generator\LCG Generator\bin\Debug\LCG Generator.pdb
+c:\users\maciej\documents\visual studio 2015\Projects\LCG Generator\LCG Generator\obj\Debug\LCG Generator.csprojResolveAssemblyReference.cache
+c:\users\maciej\documents\visual studio 2015\Projects\LCG Generator\LCG Generator\obj\Debug\LCG_Generator.Form1.resources
+c:\users\maciej\documents\visual studio 2015\Projects\LCG Generator\LCG Generator\obj\Debug\LCG_Generator.Properties.Resources.resources
+c:\users\maciej\documents\visual studio 2015\Projects\LCG Generator\LCG Generator\obj\Debug\LCG Generator.csproj.GenerateResource.Cache
+c:\users\maciej\documents\visual studio 2015\Projects\LCG Generator\LCG Generator\obj\Debug\LCG Generator.exe
+c:\users\maciej\documents\visual studio 2015\Projects\LCG Generator\LCG Generator\obj\Debug\LCG Generator.pdb
+C:\Users\Krzyś\Desktop\LCG Generator\LCG Generator\bin\Debug\LCG Generator.exe.config
+C:\Users\Krzyś\Desktop\LCG Generator\LCG Generator\obj\Debug\LCG Generator.exe
+C:\Users\Krzyś\Desktop\LCG Generator\LCG Generator\obj\Debug\LCG Generator.pdb
+C:\Users\Krzyś\Desktop\LCG Generator\LCG Generator\bin\Debug\LCG Generator.exe
+C:\Users\Krzyś\Desktop\LCG Generator\LCG Generator\bin\Debug\LCG Generator.pdb
+C:\Users\Krzyś\Desktop\LCG Generator\LCG Generator\obj\Debug\LCG Generator.csprojResolveAssemblyReference.cache
+C:\Users\Krzyś\Desktop\LCG Generator\LCG Generator\obj\Debug\LCG_Generator.Form1.resources
+C:\Users\Krzyś\Desktop\LCG Generator\LCG Generator\obj\Debug\LCG_Generator.Properties.Resources.resources
+C:\Users\Krzyś\Desktop\LCG Generator\LCG Generator\obj\Debug\LCG Generator.csproj.GenerateResource.Cache
+D:\Studia\Kułak\LCG Generator\LCG Generator\bin\Debug\LCG Generator.exe.config
+D:\Studia\Kułak\LCG Generator\LCG Generator\obj\Debug\LCG Generator.exe
+D:\Studia\Kułak\LCG Generator\LCG Generator\obj\Debug\LCG Generator.pdb
+D:\Studia\Kułak\LCG Generator\LCG Generator\bin\Debug\LCG Generator.exe
+D:\Studia\Kułak\LCG Generator\LCG Generator\bin\Debug\LCG Generator.pdb
+D:\Studia\Kułak\LCG Generator\LCG Generator\obj\Debug\LCG Generator.csprojResolveAssemblyReference.cache
+D:\Studia\Kułak\LCG Generator\LCG Generator\obj\Debug\LCG_Generator.Form1.resources
+D:\Studia\Kułak\LCG Generator\LCG Generator\obj\Debug\LCG_Generator.Properties.Resources.resources
+D:\Studia\Kułak\LCG Generator\LCG Generator\obj\Debug\LCG Generator.csproj.GenerateResource.Cache
+D:\Studia\Kułak\Programy\LCG Generator\LCG Generator\bin\Debug\LCG Generator.exe.config
+D:\Studia\Kułak\Programy\LCG Generator\LCG Generator\obj\Debug\LCG Generator.exe
+D:\Studia\Kułak\Programy\LCG Generator\LCG Generator\obj\Debug\LCG Generator.pdb
